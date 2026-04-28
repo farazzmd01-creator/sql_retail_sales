@@ -49,5 +49,8 @@ The dataset contains transactional-level data including:
 
 ---
 
+## SQL Queries
+All queries used in this project are available in the `retail_sales_analysis.sql` file.
+
 ## 📌 Conclusion
 This project demonstrates how SQL can be used to analyze transactional data, uncover trends, and support data-driven business decisions.
